@@ -1,9 +1,5 @@
-<?php
-
-
-
-include_once("about.html");
-
-
-
-?>
+{
+  "require": {
+    "php": "^8.1.0"
+  }
+}
